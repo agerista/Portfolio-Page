@@ -1,0 +1,86 @@
+.nav-bar{
+    font-size: 20px;
+    padding: 10px;
+    background-color: #E6EAED;
+    height: 60px;
+    margin-bottom: -20px;
+}
+ul{
+  list-type: none;
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+}
+head{
+  font-family: 'Playfair Display SC', serif;
+  color: #40627B;
+  text-shadow: 2px 2px 2px #011226;
+}
+li {
+  float: right;
+}
+li a {
+    list-type: none;
+    display: inline;
+    padding: 5px;
+    background-color: #C8BCCA;
+    border: 1px solid #E6EAED;
+    color: #E6EAED;
+}
+li a: hover {
+    background-color: #000;
+}
+
+  .intro{
+    
+    margin-top: -25px;
+    margin-right: -10px;
+    margin-bottom: 25px;
+    margin-left: -10px;
+      background: url("https://s9.postimg.org/rgyybx6hr/ocean_920085_1280.jpg") no-repeat center center fixed;
+    background-size: cover;
+    height: 600px; 
+}
+ 
+  h1{
+    text-align: right;
+    font-family: Sans-Sefif;
+    font-size: 100px;
+    color: #40627B;
+    text-shadow: 2px 2px 2px #011226;
+    padding-right: 50px;
+}
+
+
+  .portfolio{
+  margin: -25px;
+  background-color: #E6EAED;
+  height: 450px;
+  text-align: center;
+  padding: 50px;
+    
+}
+h2{
+  font-size: 150%;
+  color: #40627B;
+  text-shadow: 1px 1px 1px #011226;
+  padding-top: -50px;
+  padding-bottom: 25px;
+}
+
+.contact{
+  margin: -25px;
+  background: url("http://orig04.deviantart.net/1620/f/2012/045/8/2/texture3_by_ashung-d4pro17.png");
+  height: 200px;
+  text-align: right;
+}
+p{
+  text-align: left;
+  color: #E6EAED;
+  padding-left: 30px;
+  
+}
+.row-footer{
+  text-align: center;
+  color: #E6EAED;
+}
